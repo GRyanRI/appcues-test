@@ -1,0 +1,49 @@
+body {
+    background-image: url(/assets/images/zenbackground.jpg);
+  }
+  
+  h2 {
+    color: #aa4139;
+  }
+  
+  p {
+    color: #000000;
+    text-align: center;
+    border: 5px solid rgba(255,176,170, 0.5);
+    cursor: pointer;
+  }
+  
+  p {
+    line-height: 5px;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 200%;
+    font-family: 'Gayathri', sans-serif;
+  }
+  
+  img {
+    float: right;
+  }
+  
+  footer {
+    clear: both;
+    text-align: center;
+  }
+  
+  li {
+    list-style: none;
+    display: inline-block;
+  }
+  
+  .webtext {
+    border: 5px solid green;
+    padding: 100px;
+  }
+  
+  #div1 {
+    background: rgba(0, 0, 255, 0.2);
+  }
+  
+  #div2 {
+    background: rgba(255, 0, 0, 0.2);
+  }
